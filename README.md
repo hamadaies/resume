@@ -5,7 +5,7 @@
 - kaiancode@gmail.com
 - Bilkent University, 1608. Cd. No: 60 06800 Çankaya/Ankara, Turkey
 
-## EXPERIENCE
+## Experience
 
 ### SKILLARC.ORG
 **Junior Software Developer**
@@ -21,16 +21,16 @@
 - Integrated Django systems with VUE.js for frontend and deployed on an external server using nginx.
 - Set up Django systems and databases on an external server.
 
-## EDUCATION
+## Education
 
-### BILKENT UNIVERSITY
+### Bilkent University
 *Computer Engineering Student*
 
 ### Al Raed International School
 *High School Diploma*
 *2018 - 2021*
 
-## SKILLS
+## Skills
 
 ### Programming Languages
 C++, C, Bash, Java, Python, Typescript, Mips, SystemVerilog/Verilog, Swift, Objective-C
@@ -38,9 +38,9 @@ C++, C, Bash, Java, Python, Typescript, Mips, SystemVerilog/Verilog, Swift, Obje
 ### Libraries & Frameworks
 React, NextJS, Django, Flutter, Vue.js, Node, FireBase
 
-## PROJECTS ([Click-Me](/projects/))
+## Projects ([Click-Me](/projects/))
 
-## CERTIFICATIONS & HONORS
+## Certifications & Honors
 
 - **Network Penetration Testing Essentials** | Offsec Services LTD | 19 September 2023
 - **Web Application Assessment Essentials** | Offsec Services LTD | 29 January 2024
